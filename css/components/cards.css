@@ -1,0 +1,29 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid;
+  text-align: center;
+  background-color: #6638f0;
+  opacity: 0.7;
+  color: white;
+  padding: 45px;
+  flex-grow: 0;
+  width: 230px;
+  height: 263px;
+  box-shadow: 0px 0px 7px 6px rgba(0,0,0,0.2)
+
+}
+
+.card i{
+font-size: 70px;
+/*border: 1px solid white;*/
+border-radius: 50%;
+padding: 27px 20px;
+box-shadow: 4px 4px 2px 0px rgba(0,0,0,0.2);
+margin: 0px;
+
+}

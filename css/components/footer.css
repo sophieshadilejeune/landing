@@ -1,0 +1,21 @@
+.footer {
+    background-color: #bcb5ca;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px 0px
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 4px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.footer i {
+  font-size: 30px;
+  color: #6638f0;
+}

@@ -1,0 +1,35 @@
+.banner {
+  background-image: url(../../images/wine-banner.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  color: white;
+
+  }
+
+  .banner h1 {
+    text-shadow: 10px 10px 10px rgba(0,0,0,1);
+    font-size: 60px;
+    font-weight: bold;
+    margin: -55px 0px
+
+  }
+  .banner span{
+    color:#6638f0;
+    text-shadow: 10px 10px 10px rgba(0,0,0,1);
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Poppins;
+  }
+
+  .banner p {
+    font-size: 25px;
+  }
+
+/*  .banner .container p span {
+    color:#6638f0;
+    text-shadow: 10px 10px 10px rgba(0,0,0,1);
+    font-size: 60px;
+    font-weight: bold;
+
+  }*/
